@@ -1,15 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AttributedCarLibrary
+﻿namespace AttributedCarLibrary
 {
     [VehicleDescription("A very long, slow, but feature-rich auto")]
     public class Winnebago
     {
-        public void PlayMusic(bool On)
+        public void PlayMusic(bool on)
         {
 
         }
